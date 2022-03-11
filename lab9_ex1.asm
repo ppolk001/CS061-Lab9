@@ -4,7 +4,7 @@
 ; 
 ; Lab: lab 9, ex1
 ; Lab section: 025
-; TA: Jales Luo
+; TA: James Luo
 ; 
 ;=================================================
 ;this stack lab computes the polish notation of a set of calls
